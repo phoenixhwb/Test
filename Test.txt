@@ -1,7 +1,8 @@
 First built
 
-<<<<<<< HEAD
 fix Bug1
-=======
 fix bug2
->>>>>>> master
+
+temp1
+
+Temp2
